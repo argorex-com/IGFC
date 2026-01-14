@@ -1,4 +1,4 @@
-# 🏛️ ARGOREX | Incident Governance Framework (Community)
+# 🏛️ ARGOREX | Incident Classification Framework (Community)
 
 This framework is built on a simplified and amplified [**VERIS Taxonomy**](https://verisframework.org/index.html) (Vocabulary for Event Recording and Incident Sharing), enhanced with Argorex proprietary Business and Impact Logic.
 
